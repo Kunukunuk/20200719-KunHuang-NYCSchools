@@ -29,7 +29,6 @@ class MainViewController: UIViewController, UITableViewDelegate, UITableViewData
         loadSchoolList()
     }
 
-
     /// Calls the APIManager to get high schools and store it in an array
     func loadSchoolList() {
 
